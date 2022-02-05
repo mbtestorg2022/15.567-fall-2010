@@ -42,14 +42,75 @@ Timetable
 
 The deliverables are the same for both project options.
 
-| SES # | DELIVERABLES |
-| --- | --- |
-| 5 | Team formation. You should meet with your teammates this week and decide on a project/company/initiative. |
-| 7 | Each team must submit a title and one page description of the project/company/initiative/issue they plan to work on, including relevant parties to contact, and a timetable for the team. |
-| 11 | Submit a one-page topic summary and progress reports. Progress report should be in outline format and list parties contacted and appointments arranged, background research completed and planned and your preliminary hypothesis and insight (which may be proved, disproved and/or modified by the data you eventually gather). Include dates for key milestones completed and remaining. |
-| 15 | Submit draft presentation slides. For option 2, also submit proposed blog post. |
-| 16-22 | Selected student presentations in class. |
-| 23 | Final project paper due. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+DELIVERABLES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Team formation. You should meet with your teammates this week and decide on a project/company/initiative.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Each team must submit a title and one page description of the project/company/initiative/issue they plan to work on, including relevant parties to contact, and a timetable for the team.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Submit a one-page topic summary and progress reports. Progress report should be in outline format and list parties contacted and appointments arranged, background research completed and planned and your preliminary hypothesis and insight (which may be proved, disproved and/or modified by the data you eventually gather). Include dates for key milestones completed and remaining.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Submit draft presentation slides. For option 2, also submit proposed blog post.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16-22
+{{< tdclose >}}
+{{< tdopen >}}
+Selected student presentations in class.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Final project paper due.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Project Examples
 ----------------
