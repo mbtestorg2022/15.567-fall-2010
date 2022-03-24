@@ -281,7 +281,7 @@ Levy, Steven. "[Secret of Googlenomics: Data-Fueled Recipe Brews Profitability](
 
 ### Optional
 
-Varian, Hal. "The Economics of Internet Search." Anglo Costa lecture. Rome, Italy, February 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://people.ischool.berkeley.edu/~hal/Papers/2007/costa-lecture.pdf))
+Varian, Hal. "The Economics of Internet Search." Anglo Costa lecture. Rome, Italy, February 2007. ([PDF](http://people.ischool.berkeley.edu/~hal/Papers/2007/costa-lecture.pdf))
 
 
 {{< tdclose >}}
@@ -429,7 +429,7 @@ Chapter 6 in \[B&S\].
 
 Stallman, Richard. "Why Software Should Not Have Owners." In _Free Software, Free Society: Selected Essays of Richard M. Stallman_. Boston, MA: Free Software Foundation, 2002. ISBN: 9781441436207.
 
-U. S. Copyright Office. _Digital Millennium Copyright Act summary_, December 1998. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.copyright.gov/legislation/dmca.pdf))
+U. S. Copyright Office. _Digital Millennium Copyright Act summary_, December 1998. ([PDF](http://www.copyright.gov/legislation/dmca.pdf))
 
 Besen, Stanley M., and Leo J. Raskind. "An Introduction to the Law and Economics of Intellectual Property." _Journal of Economic Perspectives_ 5, no. 1 (1991): 3-27.
 
